@@ -1,6 +1,6 @@
 public class Hello{
     static void main() {
-        System.out.println("Hello World!");
-        System.out.println("This is a new line");
+        System.out.println("Goodnight Moon");
+        System.out.println("I love git");
     }
 }
